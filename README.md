@@ -5,4 +5,6 @@ Due to the costs involved, I am not able to supply panels on their own in small 
 
 Use these if you either a) want to replace an old/broken perspex panel and/or b) want to customise the existing design and get it fabbed.
 
+Both KiCAD project files and Gerber files are provided - where available, FPD and DXF files will also be provided.
+
 *The files are all supplied AS-IS* - they're generally the same ones that I send for fabbing when I'm doing a run of modules.
